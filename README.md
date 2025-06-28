@@ -1,1 +1,1 @@
-- 🤙hi! My name is Sano. I make some code just for fun :D
+hi! my name is sano.
